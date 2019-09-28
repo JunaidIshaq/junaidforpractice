@@ -1,0 +1,12 @@
+{
+  "name": "des-site",
+  "version": "0.0.1",
+  "author": "Junaid Ishaq",
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "angular-mocks": "^1.5.0"
+  },
+  "dependencies": {
+    "angularjs-toaster": "^3.0.0"
+  }
+}
